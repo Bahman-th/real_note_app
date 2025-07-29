@@ -3,6 +3,7 @@ import 'package:flutter/material.dart';
 /// 🎨 Your color palette
 class AppColors {
   static const Color mainColor = Color(0xFFFDFBF7);       // کرم ملایم
+  //static const Color mainColor = Color(0xFFC8A165);
   static const Color seconderyColor = Color(0xFFC8A165);  // بژ کاغذی
   static const Color mainTextColor = Color(0xFF2E2E2E);   // متن
 }
@@ -38,3 +39,4 @@ ThemeData darkTheme = ThemeData(
     foregroundColor: Colors.black,
   ),
 );
+
